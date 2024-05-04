@@ -34,4 +34,4 @@
 
 Лучший результат у LogisticRegression. ROC AUC score = 0.9734.
 
-## Top ROC AUC score = 0.9877 (у BERT featire extractor + XGBClassifier).
+### Top ROC AUC score = 0.9877 (у BERT feature extractor + XGBClassifier).
